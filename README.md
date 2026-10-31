@@ -6,7 +6,7 @@ This is the Landing Page project for The Odin Project.
 
 Project link: https://www.theodinproject.com/lessons/foundations-landing-page
 
-Live Preview: https://zunaid-hassan.github.io/odin-landing-page/
+Live Preview: https://zunaid-hassan.github.io/landing-page-odin/
 
 # Credits
 
